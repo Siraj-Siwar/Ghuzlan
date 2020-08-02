@@ -30,11 +30,4 @@
 		<change>It has feature 1</change>
 		<change>It has feature 2</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>
