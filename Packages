@@ -1,15 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.ghuzlan.newpackage
+Version: 1.2.7
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Baw Appie <pp121324@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Filename: ./debs/com.rpgfarm.a-bypass_iphoneos-arm.deb
+Size: 444
+MD5sum: ee6334c1d041d42f9ce387b6454c8c83
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
