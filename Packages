@@ -5,8 +5,10 @@ Maintainer: Baw Appie <pp121324@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.a-bypass_iphoneos-arm.deb
-Size: 444
+Size: 36910
 MD5sum: ee6334c1d041d42f9ce387b6454c8c83
+SHA1: 94d54bde02bf4cf236a97a606fdd0c371c9bc3a4
+SHA256: 9593c58071fc376e595788274593d2d2970ff95f7b11e3648a8973adbac9f867
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
