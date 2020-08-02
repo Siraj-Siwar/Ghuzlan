@@ -78,17 +78,17 @@ Next guide will show you how to assign and customize your depiction pages.
 
 #### 1. Adding a simple depiction page
 
-Go to the depictions folder and duplicate the folder `com.supermamon.oldpackage`.
+Go to the depictions folder and duplicate the folder `com.ghuzlan.oldpackage`.
 Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter.com/supermamon) for questions.
+Contact [@Siraj_Siwar](https://twitter.com/Siraj_Siwar) for questions.
 
 `info.xml`.
 ```xml
 <package>
-    <id>com.supermamon.oldpackage</id>
+    <id>com.ghuzlan.oldpackage</id>
     <name>Old Package</name>
     <version>1.0.0-1</version>
     <compatibility>
@@ -136,7 +136,7 @@ Depiction: https://username.github.io/repo/depictions/?p=[idhere]
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: https://username.github.io/repo/depictions/?p=com.ghuzlan.oldpackage
 ```
 
 #### 3. Rebuilding the `Packages` file
@@ -151,7 +151,7 @@ user:~/repo $ dpkg-scanpackages -m ./debs > Packages
 user:~/repo $ bzip2 Packages
 ```
 
-_Windows users, see [dpkg-scanpackages-py](https://github.com/supermamon/dpkg-scanpackages-py) or [scanpkg](https://github.com/mstg/scanpkg)._
+_Windows users, see 
 
 #### 5. Cydia at last!
 
