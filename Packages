@@ -12,7 +12,7 @@ SHA256: 9593c58071fc376e595788274593d2d2970ff95f7b11e3648a8973adbac9f867
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://siraj-siwar.github.io/Ghuzlan/depictions/?p=com.ghuzlan.newpackage
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
@@ -27,4 +27,3 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
