@@ -1,0 +1,64 @@
+Package: com.ghuzlan.a-bypass
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Filename: ./debs/com.rpgfarm.a-bypass.deb
+Size: 36910
+MD5sum: ee6334c1d041d42f9ce387b6454c8c83
+SHA1: 94d54bde02bf4cf236a97a606fdd0c371c9bc3a4
+SHA256: 9593c58071fc376e595788274593d2d2970ff95f7b11e3648a8973adbac9f867
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Installed-Size: 444
+Name: A-Bypass
+Suggests: applist
+
+Package: com.ghuzlan.a-font
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.rpgfarm.a-font.deb
+Size: 492972
+MD5sum: de052f0f75dafadbbead63227ae6aa11
+SHA1: 0c0fdc18c836d904b5e2ed3d44dfaa7dfb8f7a32
+SHA256: d01e58931db7dac5f25cb1e8493516a6c02d36f393acebf5a24358a1393f0cb9
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2344
+Name: A-Font
+
+Package: com.ghuzlan.a-shields
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
+Filename: ./debs/com.rpgfarm.a-shields.deb
+Size: 48892
+MD5sum: c9f6c8a77dd5323c6c9e5ff7ca50a4ac
+SHA1: 67e16169de66f5a972aa9196dded52e374e89b77
+SHA256: fa7f6cec0ac6494a89451632e348406f1003c4ab097e4bfa40b0f4fa8f25a68d
+Section: Tweaks
+Description: Protect your device
+Author: Baw Appie <pp121324@gmail.com>
+Installed-Size: 372
+Name: A-Shields
+
+Package: me.ghuzlan.selector
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/me.nepeta.selector.deb
+Size: 29670
+MD5sum: 77291281098310e214391b7ba293c0b5
+SHA1: eed3ced78b877c8dd32b1a9323be2238d5a52f3a
+SHA256: fdd2c92f52a326a44b6c85a778d23309df71abdc8148c24c95d00a284d622a43
+Section: Tweaks
+Description: Select text to search or translate
+Author: Nepeta & Baw Appie
+Installed-Size: 336
+Name: Selector
