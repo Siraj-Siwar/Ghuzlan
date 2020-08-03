@@ -1,29 +1,17 @@
-Package: com.ghuzlan.newpackage
+Package: com.rpgfarm.a-bypass
 Version: 1.2.7
-Section: Tweaks
-Maintainer: Baw Appie <pp121324@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rpgfarm.a-bypass_iphoneos-arm.deb
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Filename: ./debs/com.rpgfarm.a-bypass.deb
 Size: 36910
 MD5sum: ee6334c1d041d42f9ce387b6454c8c83
 SHA1: 94d54bde02bf4cf236a97a606fdd0c371c9bc3a4
 SHA256: 9593c58071fc376e595788274593d2d2970ff95f7b11e3648a8973adbac9f867
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: A-Bypass
-Author: Baw Appie <pp121324@gmail.com>
-Depiction: https://siraj-siwar.github.io/Ghuzlan/depictions/?p=com.ghuzlan.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Installed-Size: 444
+Name: A-Bypass
+Suggests: applist
+
