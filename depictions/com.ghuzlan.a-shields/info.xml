@@ -1,11 +1,11 @@
 <package>
-	<id>com.ghuzlan.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.ghuzlan.a-shields</id>
+	<name>A-shields</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>supported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
