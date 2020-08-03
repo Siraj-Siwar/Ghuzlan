@@ -1,4 +1,4 @@
-Package: com.rpgfarm.a-bypass
+Package: com.ghuzlan.newpackage
 Version: 1.2.7
 Architecture: iphoneos-arm
 Maintainer: Baw Appie <pp121324@gmail.com>
@@ -15,7 +15,7 @@ Installed-Size: 444
 Name: A-Bypass
 Suggests: applist
 
-Package: com.rpgfarm.a-font
+Package: com.ghuzlan.newpackage
 Version: 1.8.2
 Architecture: iphoneos-arm
 Maintainer: Baw Appie <pp121324@gmail.com>
@@ -31,7 +31,7 @@ Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2344
 Name: A-Font
 
-Package: com.rpgfarm.a-shields
+Package: com.ghuzlan.newpackage
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Baw Appie <pp121324@gmail.com>
@@ -47,7 +47,7 @@ Author: Baw Appie <pp121324@gmail.com>
 Installed-Size: 372
 Name: A-Shields
 
-Package: me.nepeta.selector
+Package: com.ghuzlan.newpackage
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: Baw Appie
@@ -62,4 +62,3 @@ Description: Select text to search or translate
 Author: Nepeta & Baw Appie
 Installed-Size: 336
 Name: Selector
-
