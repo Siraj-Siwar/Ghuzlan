@@ -151,7 +151,7 @@ user:~/repo $ dpkg-scanpackages -m ./debs > Packages
 user:~/repo $ bzip2 Packages
 ```
 
-_Windows users, see 
+_Windows users, see
 
 #### 5. Cydia at last!
 
