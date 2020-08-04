@@ -255,6 +255,7 @@ Package: com.ghuzlan.a-shields
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
 Filename: ./debs/com.ghuzlan.a-shields.deb
 Size: 48892
 MD5sum: c9f6c8a77dd5323c6c9e5ff7ca50a4ac
