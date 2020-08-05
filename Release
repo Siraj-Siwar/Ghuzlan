@@ -1,8 +1,8 @@
-Origin: Siraj & Siwar Ghuzlan
-Label: Siraj & Siwar Ghuzlan
+Origin: BaNaNa
+Label: BaNaNa
 Suite: stable
-Version: 1.0
+Version : 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Siraj & Siwar Ghuzlan - a cydia repo template
+Description: A new group that integrates beautification, cracking, handling, sharing, and communication together
