@@ -1,0 +1,17 @@
+Package: github.io.gfp.a-shields
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
+Filename: debs/github.io.gfp.a-shields_1.3_iphoneos-arm.deb
+Size: 75212
+MD5sum: e8fc8f8ccb3c82265b4c855225258535
+SHA1: 7c9ab90bf97af51cb3e277550fd28615c54555c7
+SHA256: f3ff1e5cc0e39bf52361701f6ab8ba7a88ae8b293478bcf8d7e90fbd9c60a633
+Section: Tweaks
+Description: Protect your device
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://siraj-siwar.github.io/Ghuzlan/depictions/github.io.gfp.a-shields/
+Icon: https://siraj-siwar.github.io/Ghuzlan/depictions/github.io.gfp.a-shields/DebIcon.png
+Name: A-Shields
